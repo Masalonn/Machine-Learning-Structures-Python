@@ -1,0 +1,2 @@
+IMPLEMENTACJA STRUKTUR UCZENIA MASZYNOWEGO (PYTHON)
+Implementacja modeli sieci neuronowych i algorytmów genetycznych w czystym Pythonie bez użycia frameworków. Projekt zawiera sieć MLP dla problemu XOR (mlp_xor.py), mapy Kohonena SOM (som_kohonen_maps.py) oraz algorytm genetyczny (genetic_algorithm_impl.py). Wymagany Python 3 wraz z bibliotekami NumPy i Matplotlib. Każdy skrypt działa jako samodzielny program.
